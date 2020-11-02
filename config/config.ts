@@ -193,19 +193,6 @@ export default defineConfig({
               ],
             },
             {
-            path: '/products',
-            name: 'products',
-            icon: 'profile',
-            routes: [
-              {
-                name: 'productList',
-                icon: 'smile',
-                path: '/products/productList',
-                component: './products/productList',
-              },
-            ],
-          },
-            {
               name: 'result',
               icon: 'CheckCircleOutlined',
               path: '/result',

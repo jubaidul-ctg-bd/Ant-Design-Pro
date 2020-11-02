@@ -31,8 +31,6 @@ export default {
   'menu.list.search-list.applications': 'Search List(applications)',
   'menu.profile': 'Profile',
   'menu.profile.basic': 'Basic Profile',
-  'menu.products': 'Products',
-  'menu.products.productList': 'Product List',
   'menu.profile.advanced': 'Advanced Profile',
   'menu.result': 'Result',
   'menu.result.success': 'Success',
